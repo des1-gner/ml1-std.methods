@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=DG4hxYHa_Gg 
+random forest uses ensemble of randomized decision trees which helps overcome overfitting
+
+https://www.youtube.com/watch?v=cIbj0WuK41w
+
+https://www.youtube.com/watch?v=X1MRbEnEq2s
+
+this gives us a much more accurate consensus. take the game where you must guess how many jelly beans are in a jar. statistically speaking if you averaged or took the median (would eliminate outliers) we would come to a more accurate answer as we can assume that by consensus we are closer to the answer than just taking one random guess from someone. we assume some normalized distrubution (bel curve) convex
+
+https://www.youtube.com/watch?v=VPQsK86Gl5c
+
+This reduces variance
+
+we are assuming Bayes Theorem i.e. that none of our features are related to eachother.
+ad
+
+https://www.youtube.com/watch?v=BT6Aw6Q75Yg
